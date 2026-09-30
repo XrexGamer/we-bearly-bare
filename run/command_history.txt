@@ -1,0 +1,5 @@
+/effect give Dev minecraft:resistance infinite 222 true
+/kill @e
+/effect give Dev minecraft:resistance infinite 222 true
+/effect give Dev minecraft:strength 22 222
+/effect give Dev minecraft:strength 10 222
